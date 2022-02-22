@@ -12,6 +12,7 @@ class StringClass:
 
     def split(self):
         stringtocharacters = list(self.string)
+
         return stringtocharacters
 
 
